@@ -1,0 +1,11 @@
+# Dépendances supplémentaires du projet, en plus du requirements.txt du cours
+# (qui fournit déjà numpy, scipy, scikit-learn, matplotlib, pandas, optuna,
+#  torch, opencv-python, seaborn).
+
+scikit-image      # extraction HOG (exercices 6 et 7)
+Pillow            # chargement et redimensionnement des images (exercices 6 et 7)
+
+# Optionnel
+torchvision       # embeddings CNN pré-entraînés figés, optionnel (exercice 6, flag --cnn)
+umap-learn        # projection 2D alternative à t-SNE, optionnel (exercice 7)
+kagglehub         # téléchargement du dataset Animals-10 (scripts/download_data.py)
