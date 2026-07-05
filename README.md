@@ -54,7 +54,7 @@ python scripts/reduce_animals10.py
 
 ## Exécution
 
-Les notebooks sont déjà exécutés ; leur lecture ne nécessite aucun relancement.
+Les notebooks sont déjà exécutés, leur lecture ne nécessite aucun relancement.
 
 Pour les rejouer, ouvrir chaque notebook dans Jupyter ou VS Code depuis son dossier et exécuter les cellules.
 
@@ -64,7 +64,7 @@ Pour les rejouer, ouvrir chaque notebook dans Jupyter ou VS Code depuis son doss
 ## Notes méthodologiques
 
 - Tous les scores sont annoncés explicitement comme train, validation croisée, ou test.
-- Le test ne sert jamais au réglage des hyperparamètres ni à la sélection des modèles ; la validation croisée porte sur le train uniquement.
+- Le test ne sert jamais au réglage des hyperparamètres ni à la sélection des modèles, la validation croisée porte sur le train uniquement.
 - Les axes des figures sont labellisés, avec les unités lorsque pertinent.
 - Les concepts vus en cours (régression linéaire, Ridge, Lasso, PCA, k-means, SVM) ne sont pas réexpliqués.
-- Les méthodes hors programme (t-SNE, UMAP, ARI, NMI, silhouette) sont brièvement présentées dans les exercices 6 et 7.
+- Les méthodes hors programme (t-SNE, UMAP, ARI, NMI) sont brièvement présentées dans les exercices 6 et 7.
