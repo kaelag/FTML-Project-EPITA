@@ -1,0 +1,14 @@
+{
+  "classes": [
+    "araignee",
+    "chat",
+    "cheval",
+    "chien",
+    "ecureuil",
+    "elephant",
+    "mouton",
+    "papillon",
+    "poule",
+    "vache"
+  ]
+}
