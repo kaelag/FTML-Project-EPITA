@@ -68,3 +68,8 @@ Pour les rejouer, ouvrir chaque notebook dans Jupyter ou VS Code depuis son doss
 - Les axes des figures sont labellisés, avec les unités lorsque pertinent.
 - Les concepts vus en cours (régression linéaire, Ridge, Lasso, PCA, k-means, SVM) ne sont pas réexpliqués.
 - Les méthodes hors programme (t-SNE, UMAP, ARI, NMI) sont brièvement présentées dans les exercices 6 et 7.
+
+
+## Équipe
+
+Projet réalisé en équipe avec [Ilias Kalalou](https://github.com/iliaskalalou) et Simon Arbiser (EPITA, spécialisation SCIA, 2026). L'historique d'origine est conservé ; les commits d'Ilias sont co-signés.
